@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This page will focus on noise in podcasting. "
+        }
+      ]
+    }
+  ],
+  "title": "Noise",
+  "parent": "04422d3c-d919-4732-b61a-eb8b1b178a06",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "noise",
+  "created_at": "2025-03-23T23:47:34.703Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-03-23T23:47:34.703Z",
+  "updated_by": "agunnells"
+}
