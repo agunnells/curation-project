@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Voice",
+  "parent": "8ccaee2c-d718-46ad-8b27-d59dcca03dfe",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "voice",
+  "created_at": "2025-03-23T23:46:51.347Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-03-23T23:46:51.347Z",
+  "updated_by": "agunnells"
+}
