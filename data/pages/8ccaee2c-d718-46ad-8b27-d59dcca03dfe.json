@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Overview of the link between sonic rhetoric and podcasting. "
+        }
+      ]
+    }
+  ],
+  "title": "The Sonic Rhetoric of Podcasting",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-sonic-rhetoric-of-podcasting",
+  "created_at": "2025-03-23T23:46:27.318Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-03-23T23:46:27.318Z",
+  "updated_by": "agunnells"
+}
