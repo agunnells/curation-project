@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This page discusses the aesthetics of 1930s radio drama. "
+        }
+      ]
+    }
+  ],
+  "title": "Radio Drama Aesthetics",
+  "parent": "ac6b483d-0691-404d-b747-791a49ead926",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "radio-drama-aesthetics",
+  "created_at": "2025-03-24T00:13:02.553Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-03-24T00:13:02.553Z",
+  "updated_by": "agunnells"
+}
