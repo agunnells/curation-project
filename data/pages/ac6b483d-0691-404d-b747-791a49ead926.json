@@ -4,19 +4,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "This page previews "
+        },
+        {
+          "text": "The Last Archive. ",
+          "italic": true
         }
       ]
     }
   ],
-  "title": "The Last Archive & The Foolproof Players",
+  "title": "The Last Archive & the Sound of History",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "the-last-archive-and-the-foolproof-players",
+  "slug": "the-last-archive-and-the-sound-of-history",
   "created_at": "2025-03-24T00:08:52.338Z",
   "created_by": "agunnells",
-  "updated_at": "2025-03-24T00:08:52.338Z",
+  "updated_at": "2025-03-24T00:12:25.923Z",
   "updated_by": "agunnells"
 }
