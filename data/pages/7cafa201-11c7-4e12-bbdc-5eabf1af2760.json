@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A review of the Foolproof Players and comparisons with radio drama. "
+        }
+      ]
+    }
+  ],
+  "title": "The Foolproof Players",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-foolproof-players",
+  "created_at": "2025-03-24T00:13:39.952Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-03-24T00:13:39.952Z",
+  "updated_by": "agunnells"
+}
