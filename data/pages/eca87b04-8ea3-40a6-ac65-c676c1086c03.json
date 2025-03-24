@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This will be a comparison of "
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "The Black Museum",
+          "italic": true
+        },
+        {
+          "text": ", among others. "
+        }
+      ]
+    }
+  ],
+  "title": "Sounding History",
+  "parent": "ac6b483d-0691-404d-b747-791a49ead926",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "sounding-history",
+  "created_at": "2025-03-24T20:24:35.328Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-03-24T20:24:35.328Z",
+  "updated_by": "agunnells"
+}
