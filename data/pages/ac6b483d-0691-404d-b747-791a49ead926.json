@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "The Last Archive & The Foolproof Players",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-last-archive-and-the-foolproof-players",
+  "created_at": "2025-03-24T00:08:52.338Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-03-24T00:08:52.338Z",
+  "updated_by": "agunnells"
+}
