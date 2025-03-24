@@ -17,21 +17,6 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "c34c0be3-0547-4dba-9167-b6883c20d3d1",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -48,6 +33,6 @@
   "slug": "a-brief-history-of-1930s-radio-drama",
   "created_at": "2025-03-24T00:08:15.402Z",
   "created_by": "agunnells",
-  "updated_at": "2025-03-24T19:48:32.505Z",
+  "updated_at": "2025-03-24T19:51:14.043Z",
   "updated_by": "agunnells"
 }
