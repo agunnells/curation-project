@@ -21,6 +21,42 @@
           "text": ", among others. "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "4e8dccaa-d095-4ddc-9113-cd78114e96bc"
+      },
+      "event2": {
+        "uuid": "352c63af-81d3-49b7-ba09-0acfbfee06c5"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Sounding History",
@@ -32,6 +68,6 @@
   "slug": "sounding-history",
   "created_at": "2025-03-24T20:24:35.328Z",
   "created_by": "agunnells",
-  "updated_at": "2025-03-24T20:24:35.328Z",
+  "updated_at": "2025-03-24T20:26:12.411Z",
   "updated_by": "agunnells"
 }
