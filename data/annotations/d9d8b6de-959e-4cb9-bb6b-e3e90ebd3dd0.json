@@ -1,1 +1,301 @@
-{"annotations":[],"set":"Default","event_id":"74bd59fd-8bbb-4e69-98e5-8e27d57172cc","source_id":"a8b9f912-3e1c-44cb-8c80-6508cf21d9fe"}
+{
+  "annotations": [
+    {
+      "start_time": 70,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking footsteps and a door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "eadde839-0580-434b-8efa-524ae9253adb"
+    },
+    {
+      "start_time": 79,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound clips from radio"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "aba6e752-5dc1-431c-94df-123b411bda88"
+    },
+    {
+      "start_time": 210,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background music like one would hear on the radio in those days"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "c64f50f6-a681-40ba-8b27-47583f4c6224"
+    },
+    {
+      "start_time": 298,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background sounds of chirping birds, insects, etc. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "0f346d87-5b93-4ac5-a4eb-2bcb73d5ef70"
+    },
+    {
+      "start_time": 400,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenacting the voice of a black man from the south that Ellison heard in his head"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
+      "uuid": "0383e9c0-e5bf-4b8c-a739-57851bfc461e"
+    },
+    {
+      "start_time": 516,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenacting Ellison and Robert Penn Warren talking? Unclear if it's a reenactment or recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
+      "uuid": "2548b9b9-1f8d-40a0-9cce-a7a19aa4e82f"
+    },
+    {
+      "start_time": 594,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interview with Ellison and a white interviewer - again, unclear if it's a recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
+      "uuid": "74970d68-4a92-49fb-a11c-b0fef4515e38"
+    },
+    {
+      "start_time": 674,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music playing in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "de0a2baf-0b65-4712-b3e4-fd6cbb198d3a"
+    },
+    {
+      "start_time": 705,
+      "end_time": 705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More interviews with Ellison - starting to think it is an actual recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
+      "uuid": "27367769-5599-4eb5-902d-be7c91cecf6d"
+    },
+    {
+      "start_time": 1110,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenactment of a court official recounting the \"negro oath\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
+      "uuid": "244fc02d-0561-4375-a1c1-831b5ee62d8e"
+    },
+    {
+      "start_time": 1187,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A judge providing his reasoning for why \"negro evidence\" can't be taken seriously"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
+      "uuid": "602c391e-5081-48e3-9412-8ac4eb7d6451"
+    },
+    {
+      "start_time": 1705,
+      "end_time": 1705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reenactment of a story told to Ellison by a black man he met on a street corner?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
+      "uuid": "e4387a16-eb17-4a77-a986-43fff543c6ac"
+    },
+    {
+      "start_time": 1850,
+      "end_time": 1850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background noise of birds chirping"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "cc765307-b50b-441f-abf3-e98569b083be"
+    },
+    {
+      "start_time": 1875,
+      "end_time": 1875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We get another actual sound clip of Ellison on a show"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
+      "uuid": "b0eaef72-e445-4bc4-9dd0-130816e5f4ae"
+    }
+  ],
+  "set": "Default",
+  "event_id": "74bd59fd-8bbb-4e69-98e5-8e27d57172cc",
+  "source_id": "a8b9f912-3e1c-44cb-8c80-6508cf21d9fe"
+}
