@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-03-24T19:43:26.792Z",
-  "created_by": "agunnells",
-  "title": "Mercury Theater on the Air, \"Heart of Darkness | Life With Father\"",
-  "slug": "mercury-theater-on-the-air-heart-of-darknes",
-  "updated_at": "2025-03-24T19:43:26.792Z",
-  "updated_by": "agunnells",
-  "parent": "04422d3c-d919-4732-b61a-eb8b1b178a06",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "c34c0be3-0547-4dba-9167-b6883c20d3d1"
-  }
-}
+{"content":[],"created_at":"2025-03-24T19:43:26.792Z","created_by":"agunnells","title":"Mercury Theater on the Air, \"Heart of Darkness | Life With Father\"","slug":"mercury-theater-on-the-air-heart-of-darknes","updated_at":"2025-03-24T19:43:26.792Z","updated_by":"agunnells","parent":"680c6bb3-ba65-49d6-ae91-9b8c25523b8a","autogenerate":{"enabled":true,"type":"event","type_id":"c34c0be3-0547-4dba-9167-b6883c20d3d1"}}
