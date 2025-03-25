@@ -286,7 +286,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Reenactments",
+          "tag": "reenactment"
+        }
+      ],
       "uuid": "faa4b89a-dbf1-49c6-b2c2-73c5836e2467"
     },
     {
