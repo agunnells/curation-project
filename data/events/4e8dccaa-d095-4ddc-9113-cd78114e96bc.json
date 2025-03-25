@@ -14,7 +14,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "In the first episode of "
+        },
+        {
+          "text": "The Last Archive",
+          "italic": true
+        },
+        {
+          "text": ", Jill Lepore and her team re-examine the evidence from a century-old case: the murder of Lucina Broadwell. On May 4, 1919, Broadwell's body was discovered in the Wheelock garden by a local resident walking through the area. The State of Vermont hired James R. Wood, Jr., of the Wood Detective Agency in Boston - generally considered one of the best detectives in New England - to lead the investigation. Wood eventually set his sites on George Long, a man that Broadwell met at a local brothel in downtown Barre. Long was convicted of Broadwell's murder on October 31, 1919, and sentenced to life imprisonment. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lepore and her team piece together the evidence gathered during the investigation through a variety of sources: photographs, newspaper articles, Wood's detective notebook, the trial record, and a trip to the crime scene. In doing so, Lepore raises various questions about the very nature of evidence itself, ultimately questioning whether Long's conviction was based in \"fact\" or in moral panic. "
         }
       ]
     }
@@ -24,6 +39,6 @@
   "label": "The Last Archive, \"The Clue of the Blue Bottle\"",
   "created_at": "2025-03-24T19:58:31.593Z",
   "created_by": "agunnells",
-  "updated_at": "2025-03-24T19:58:31.593Z",
+  "updated_at": "2025-03-25T13:32:09.051Z",
   "updated_by": "agunnells"
 }
