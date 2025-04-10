@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "agunnells",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92882334?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "agunnells",
     "is_private": false,
@@ -40,6 +46,7 @@
       ]
     },
     "created_at": "2025-03-23T23:12:25.914Z",
-    "updated_at": "2025-03-25T13:11:56.443Z"
+    "updated_at": "2025-03-25T13:11:56.443Z",
+    "generate_pages_site": true
   }
 }
