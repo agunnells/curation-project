@@ -101,6 +101,24 @@
           "text": " produced a series of radio plays, including \"The Fall of the City,\" one of, in Verma's words, \"the most openly polemical radio plays aired in the United States during the Great Depression\" (17). "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Radio Drama Aesthetics",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "There are several unique aesthetic qualities attributed to the golden age of radio drama that helped these productions maintain a place in the cultural consciousness. The following pages detail three core aspects of radio drama aesthetics: voice, music, and sound effects."
+        }
+      ]
     }
   ],
   "title": "The Golden Age of Radio Drama",
@@ -111,6 +129,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-03-23T23:46:27.318Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-13T21:40:21.993Z",
+  "updated_at": "2025-04-13T21:46:59.022Z",
   "updated_by": "agunnells"
 }
