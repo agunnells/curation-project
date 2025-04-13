@@ -30,7 +30,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The so-called \"Radio Boom\" swept through the United States in the 1920s. "
+          "text": "The so-called \"Radio Boom\" swept through the United States in the 1920s. Anderson notes that Marconi sold much of his work to General Electric (GE) in 1919; in turn, GE founded the Radio Corporation of America and placed David Sarnoff, one of Marconi's former employees, in charge. Through 1920, radio stations began popping up across the United States in cities such as Pittsburgh and Detroit (Pavlik 3). In fact, Pavlik explains that a \"Detroit station now known as WWJ Radio delivered an audio news report on August 31 of that year, possibly the first newscast ever via the airwaves\" (3). At least 500 radio stations were operational across the United States by 1923 (Pavlik 3). And despite the stock market crash of 1929 and the severe financial depression that followed, radio programming continued to flourish (Anderson). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Golden Age of Radio Drama",
+          "underline": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Despite its ability to spread a wide array of content, "
         }
       ]
     }
@@ -43,6 +61,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-03-23T23:46:27.318Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-13T18:54:54.999Z",
+  "updated_at": "2025-04-13T19:09:57.678Z",
   "updated_by": "agunnells"
 }
