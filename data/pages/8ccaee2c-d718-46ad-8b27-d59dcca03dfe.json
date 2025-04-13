@@ -4,7 +4,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "An introduction to the history of radio drama. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Radio's Origins",
+          "bold": true,
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The history of radio dates to the late nineteenth century. In her work on the early history of the internet, Janna Quitney Anderson explains that the existence of radio was first made possible by the experiments of Heinrich Rudolf Hertz in the 1880s, which proved that \"electromagnetic radio waves could be transmitted through free space and detected over a short distance.\" By 1895, Italian inventor Guglielmo Marconi had figured out how to transmit a wireless Morse Code message to a source located over a kilometer away - the next year, in 1896, he filed a patent in England for the country's first \"wireless telegraphy\" system (Anderson). Marconi's patent in England was followed just under a decade later by a patent for the invention of radio issued by the U.S. Patent Office in 1904 (Anderson). Importantly, such scientific discoveries as the development of radio communication coincided with widespread interest in bringing theatrical performances to the masses. For example, John Pavlik's work on radio drama in the 1920s notes that, in 1881, French engineer Clement Adler filed a patent for the Théâtrophone, \"a commercial service that enabled subscribers to hear live stage performances and news reports via a network of telephone lines\" (3). The Théâtrophone first became available for use in 1890 (Pavlik 3). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The so-called \"Radio Boom\" swept through the United States in the 1920s. "
         }
       ]
     }
@@ -17,6 +43,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-03-23T23:46:27.318Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-11T22:29:16.420Z",
+  "updated_at": "2025-04-13T18:54:54.999Z",
   "updated_by": "agunnells"
 }
