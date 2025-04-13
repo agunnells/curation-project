@@ -116,7 +116,34 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "There are several unique aesthetic qualities attributed to the golden age of radio drama that helped these productions maintain a place in the cultural consciousness. The following pages detail three core aspects of radio drama aesthetics: voice, music, and sound effects."
+          "text": "There are several unique aesthetic qualities attributed to the golden age of radio drama that helped these productions maintain a place in the cultural consciousness. The linked pages below detail three core aspects of radio drama aesthetics: voice, noise, and music."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Voice",
+          "link": "https://agunnells.github.io/curation-project/pages/voice/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Noise ",
+          "link": "https://agunnells.github.io/curation-project/pages/noise/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Music",
+          "link": "https://agunnells.github.io/curation-project/pages/music/"
         }
       ]
     }
@@ -129,6 +156,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-03-23T23:46:27.318Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-13T21:46:59.022Z",
+  "updated_at": "2025-04-13T21:50:27.240Z",
   "updated_by": "agunnells"
 }
