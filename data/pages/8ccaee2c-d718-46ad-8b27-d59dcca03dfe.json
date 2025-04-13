@@ -38,7 +38,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Golden Age of Radio Drama",
+          "text": "The Golden Age of Radio (Drama)",
           "underline": true,
           "bold": true
         }
@@ -73,6 +73,30 @@
           "text": "One particular format that captivated listeners across the United States was the radio drama. "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "table-of-contents",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "The Golden Age of Radio Drama",
@@ -83,6 +107,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-03-23T23:46:27.318Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-13T20:42:23.447Z",
+  "updated_at": "2025-04-13T20:50:56.076Z",
   "updated_by": "agunnells"
 }
