@@ -48,7 +48,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Despite its ability to spread a wide array of content, "
+          "text": "Despite its ability to spread a wide array of content, radio became particularly valuable as a source of entertainment for households across the United States. For example, in his study of early-twentieth century radio aesthetics, Neil Verma notes that "
+        },
+        {
+          "text": "Amos 'n' Andy ",
+          "italic": true
+        },
+        {
+          "text": "- which debuted in 1928 as one of the first radio comedy shows in the United States - has been described as \"radio's "
+        },
+        {
+          "text": "Birth of a Nation",
+          "italic": true
+        },
+        {
+          "text": "\" in terms of its cultural impact (38). Radio's popularity is reflected in the estimated number of radios owned by Americans: in 1930, Americans are estimated to have owned 12 million radios, a number that surpassed 28 million by the end of the decade (Pavlik 6). "
         }
       ]
     }
@@ -61,6 +75,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-03-23T23:46:27.318Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-13T19:09:57.678Z",
+  "updated_at": "2025-04-13T19:20:07.146Z",
   "updated_by": "agunnells"
 }
