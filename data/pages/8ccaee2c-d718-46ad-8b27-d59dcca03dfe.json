@@ -81,22 +81,6 @@
           "text": ""
         }
       ]
-    },
-    {
-      "type": "table-of-contents",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "The Golden Age of Radio Drama",
@@ -107,6 +91,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-03-23T23:46:27.318Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-13T20:50:56.076Z",
+  "updated_at": "2025-04-13T20:53:05.254Z",
   "updated_by": "agunnells"
 }
