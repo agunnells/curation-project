@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[more info here.]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "2e027b12-daaf-44e4-9265-58d461ae83a5",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Putting It All Together",
+  "parent": "8ccaee2c-d718-46ad-8b27-d59dcca03dfe",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "putting-it-all-together",
+  "created_at": "2025-04-14T22:43:17.938Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-14T22:43:17.938Z",
+  "updated_by": "agunnells"
+}
