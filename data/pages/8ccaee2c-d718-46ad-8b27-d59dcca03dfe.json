@@ -146,31 +146,6 @@
           "link": "https://agunnells.github.io/curation-project/pages/music/"
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "link": "https://agunnells.github.io/curation-project/pages/music/",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "table-of-contents",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Noise"
-        }
-      ]
     }
   ],
   "title": "The Golden Age of Radio Drama",
@@ -181,6 +156,6 @@
   "slug": "the-golden-age-of-radio-drama",
   "created_at": "2025-03-23T23:46:27.318Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-13T22:27:23.176Z",
+  "updated_at": "2025-04-14T02:36:47.315Z",
   "updated_by": "agunnells"
 }
