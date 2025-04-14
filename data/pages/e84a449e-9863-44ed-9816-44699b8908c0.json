@@ -1,1 +1,23 @@
-{"content":[{"type":"paragraph","children":[{"text":"This is a page about music in podcasting. "}]}],"title":"Music","parent":"8ccaee2c-d718-46ad-8b27-d59dcca03dfe","autogenerate":{"enabled":false,"type":"custom"},"slug":"music","created_at":"2025-03-24T00:07:14.791Z","created_by":"agunnells","updated_at":"2025-03-24T00:07:24.747Z","updated_by":"agunnells"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Music served a variety of purposes in radio drama: it could set the mood for a scene, reflect the personality of a certain character, or signal a scene change, to name just a few uses. VanCour notes that music was crucial for establishing mood within a scene - in fact, many larger radio stations had small orchestral ensembles on hand (115). On the other hand, particular melodies could be used to punctuate conversations between characters or, in some instances, a particular melody was associated with a character as a way to provide further context for their personality (VanCour 115). "
+        }
+      ]
+    }
+  ],
+  "title": "Music",
+  "parent": "8ccaee2c-d718-46ad-8b27-d59dcca03dfe",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "music",
+  "created_at": "2025-03-24T00:07:14.791Z",
+  "created_by": "agunnells",
+  "updated_at": "2025-04-14T02:46:56.435Z",
+  "updated_by": "agunnells"
+}
