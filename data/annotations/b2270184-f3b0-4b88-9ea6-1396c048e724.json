@@ -150,6 +150,27 @@
         }
       ],
       "uuid": "c5cd9348-1788-442e-a840-cf54fe9664fe"
+    },
+    {
+      "start_time": 40,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unknown voice beckoning the person knocking to enter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "5d0112b7-e118-4880-b385-dcb64852b3d5"
     }
   ],
   "set": "Default",
