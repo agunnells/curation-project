@@ -192,6 +192,27 @@
         }
       ],
       "uuid": "f7e34b00-f880-4678-9d13-1b6762b85766"
+    },
+    {
+      "start_time": 43,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A person by the name of Wilson begins speaking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "0642f938-6f2f-43e1-b4a8-3b8663b2550a"
     }
   ],
   "set": "Default",
