@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "d8ec276c-b93d-48a0-a0b6-063ceea5c0ff"
+    },
+    {
+      "start_time": 45,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint knocking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "585fd945-a535-4909-8e4e-99ea1331f399"
     }
   ],
   "set": "Default",
