@@ -787,6 +787,31 @@
         }
       ],
       "uuid": "97ec3029-b3ae-4e34-98ee-f5678e2186b2"
+    },
+    {
+      "start_time": 833,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As voices continue, ominous music grows louder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "ff263edf-ff8c-4a4c-b8c7-07a15eb69f72"
     }
   ],
   "set": "Default",
