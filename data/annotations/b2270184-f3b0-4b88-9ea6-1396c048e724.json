@@ -766,6 +766,27 @@
         }
       ],
       "uuid": "efb4691d-9e45-4688-a60c-8c109d169de0"
+    },
+    {
+      "start_time": 788,
+      "end_time": 788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Second soft voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "fe0d65dd-d88e-4886-b31a-62b076c763ab"
     }
   ],
   "set": "Default",
