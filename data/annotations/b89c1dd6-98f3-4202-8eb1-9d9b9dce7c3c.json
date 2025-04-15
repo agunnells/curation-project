@@ -73,6 +73,22 @@
         }
       ],
       "uuid": "02ba7686-1b42-4578-bcdd-89f9b6e63e97"
+    },
+    {
+      "start_time": 130,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background music transitions to longer tones, creating a more ominous feel"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "84bfa65a-1ebb-4ab8-95a4-45837153d01f"
     }
   ],
   "set": "Default",
