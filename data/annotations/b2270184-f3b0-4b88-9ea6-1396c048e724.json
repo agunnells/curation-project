@@ -385,6 +385,27 @@
         }
       ],
       "uuid": "3f7b37c3-47da-4e73-9ef7-61082be9b003"
+    },
+    {
+      "start_time": 295,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ticking sound begins, as if a wood block is being struck in rhythm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "79a1f9dc-2f17-4bbc-ba05-490d1e3faea9"
     }
   ],
   "set": "Default",
