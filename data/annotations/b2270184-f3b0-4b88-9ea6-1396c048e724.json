@@ -1093,6 +1093,27 @@
         }
       ],
       "uuid": "f95558f9-6192-4bfe-a2bf-e58f11b68baa"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of door shutting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "b3e92c31-0981-4702-b2a5-5e8d13c39b63"
     }
   ],
   "set": "Default",
