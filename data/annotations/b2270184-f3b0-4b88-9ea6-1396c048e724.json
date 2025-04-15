@@ -1177,6 +1177,27 @@
         }
       ],
       "uuid": "d9525031-aed1-4e19-a95b-28810cd11691"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A rhythmic beating, like that of a heart, begins to grow"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "c34672b9-6a72-4b86-90ba-9d2f86628282"
     }
   ],
   "set": "Default",
