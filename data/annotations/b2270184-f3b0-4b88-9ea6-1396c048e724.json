@@ -1005,6 +1005,27 @@
         }
       ],
       "uuid": "2dc5caba-0b67-4d56-8347-f1824fab630c"
+    },
+    {
+      "start_time": 1037,
+      "end_time": 1037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "795be9ba-90df-4d19-8aa5-262668278d93"
     }
   ],
   "set": "Default",
