@@ -854,6 +854,27 @@
         }
       ],
       "uuid": "d0bc226d-0634-4407-a61a-3424fbd91810"
+    },
+    {
+      "start_time": 914,
+      "end_time": 914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking door"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "fb4fc48c-42fb-4856-b6a9-704801e6eb55"
     }
   ],
   "set": "Default",
