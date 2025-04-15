@@ -755,6 +755,27 @@
         }
       ],
       "uuid": "d7c2a865-20bd-4982-af47-b8079f99abbf"
+    },
+    {
+      "start_time": 335,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ophelia"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "5d3b72bf-09af-4dc1-96cc-8fa92f8506e9"
     }
   ],
   "set": "Default",
