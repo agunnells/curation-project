@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"2c8107c5-26de-46d9-8ed0-e39fe4a8c68c","source_id":"2da0d3f3-6cec-4023-b8f5-d0f769a62aca"}
+{
+  "annotations": [
+    {
+      "start_time": 13,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of footsteps on stairs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "e4a3e0aa-a42d-4048-a7be-80486a30420f"
+    }
+  ],
+  "set": "Default",
+  "event_id": "2c8107c5-26de-46d9-8ed0-e39fe4a8c68c",
+  "source_id": "2da0d3f3-6cec-4023-b8f5-d0f769a62aca"
+}
