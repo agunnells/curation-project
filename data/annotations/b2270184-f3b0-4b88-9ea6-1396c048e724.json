@@ -959,6 +959,27 @@
         }
       ],
       "uuid": "9ba6efd6-8f26-45f5-9cf9-043827508193"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soft voices return"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "06950d81-bfdb-424f-98f3-c7a6a5b2b48b"
     }
   ],
   "set": "Default",
