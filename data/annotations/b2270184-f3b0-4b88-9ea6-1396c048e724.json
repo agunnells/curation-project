@@ -586,6 +586,31 @@
         }
       ],
       "uuid": "25155409-8381-4dc1-bae4-b4154b5d2a66"
+    },
+    {
+      "start_time": 482,
+      "end_time": 670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conversation between old man and his companion (the murderer); as they converse, the ticking sound and whistling wind remain steady in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "8c70028f-994b-4667-9468-3f439831ab22"
     }
   ],
   "set": "Default",
