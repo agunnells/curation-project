@@ -1462,6 +1462,27 @@
         }
       ],
       "uuid": "504f9662-bd2b-4df2-80a1-dd5961b394c0"
+    },
+    {
+      "start_time": 1708,
+      "end_time": 1708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of beating heart returns"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "730400e1-9474-4bfc-ab56-2e92e572b2dc"
     }
   ],
   "set": "Default",
