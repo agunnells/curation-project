@@ -2,13 +2,13 @@
   "annotations": [
     {
       "start_time": 2,
-      "end_time": 0,
+      "end_time": 15,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Ominous music"
+              "text": "Ominous orchestral music that transitions into the sound of thunder"
             }
           ]
         }
