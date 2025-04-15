@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "de15fd2b-aed3-4832-ae5d-90e3e95093ab"
+    },
+    {
+      "start_time": 118,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Faint splashing, indicating a the body hitting liquid concrete"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "fae8a148-565e-4e1e-93b3-89df60a73613"
     }
   ],
   "set": "Default",
