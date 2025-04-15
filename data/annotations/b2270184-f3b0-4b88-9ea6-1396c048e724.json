@@ -406,6 +406,27 @@
         }
       ],
       "uuid": "79a1f9dc-2f17-4bbc-ba05-490d1e3faea9"
+    },
+    {
+      "start_time": 306,
+      "end_time": 306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voice of the murderer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "cb6ff010-a84b-4e87-a62a-22c8b027f9a9"
     }
   ],
   "set": "Default",
