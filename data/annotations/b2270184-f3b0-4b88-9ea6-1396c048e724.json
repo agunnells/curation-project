@@ -415,7 +415,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Voice of the murderer, low and whispering"
+              "text": "Voice of the murderer, low and whispering; the ticking clock and whistling wind continue as he speaks"
             }
           ]
         }
@@ -424,6 +424,10 @@
         {
           "category": "Voice",
           "tag": "voice"
+        },
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
         }
       ],
       "uuid": "cb6ff010-a84b-4e87-a62a-22c8b027f9a9"
