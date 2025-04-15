@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Doorknob turning and door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "d8ec276c-b93d-48a0-a0b6-063ceea5c0ff"
+    }
+  ],
   "set": "Default",
   "event_id": "1d636c0c-cbf3-49cd-add3-4e7a6292350a",
   "source_id": "86377d04-4d02-40b5-82c2-522f73817e79"
