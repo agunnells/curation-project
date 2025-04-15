@@ -255,6 +255,31 @@
         }
       ],
       "uuid": "f725aacf-48bd-465d-ae7f-b4de27d556ca"
+    },
+    {
+      "start_time": 60,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conversation between doctor and Wilson continues; the sound of whistling wind fluctuates in the background, creating an eerie feeling"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "9e876257-0032-4af8-ab16-88106f7b50aa"
     }
   ],
   "set": "Default",
