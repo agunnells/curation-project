@@ -62,6 +62,31 @@
         }
       ],
       "uuid": "c02682e8-7899-4d74-b67d-f29fb6e56d9f"
+    },
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blood-curdling scream"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "ff73aa61-0e5f-491d-9fd8-6de7fac4f77f"
     }
   ],
   "set": "Default",
