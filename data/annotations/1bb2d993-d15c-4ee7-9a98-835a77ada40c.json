@@ -146,6 +146,27 @@
         }
       ],
       "uuid": "2a03f883-7a57-4636-8d56-1b8d1f31884c"
+    },
+    {
+      "start_time": 86,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Footsteps entering a room"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "3e06e867-df32-45d7-99b9-24e1f21f3666"
     }
   ],
   "set": "Default",
