@@ -473,6 +473,27 @@
         }
       ],
       "uuid": "717e8316-7ca2-4eef-a231-a92529c5fad2"
+    },
+    {
+      "start_time": 395,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of clock chiming"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "36d136e4-82d5-46e7-91e9-b1137b69c897"
     }
   ],
   "set": "Default",
