@@ -1416,6 +1416,27 @@
         }
       ],
       "uuid": "5f83c1bd-b979-491d-99b8-62a6166cd2cf"
+    },
+    {
+      "start_time": 1642,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very loud ominous music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "46c6df8a-8821-4c8f-b772-e3b18a54cb3c"
     }
   ],
   "set": "Default",
