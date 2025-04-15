@@ -608,6 +608,27 @@
         }
       ],
       "uuid": "218131bc-7c00-46e7-9a5e-ee9aa4598912"
+    },
+    {
+      "start_time": 300,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Queen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "8105c416-1b5c-4556-81c4-8920803ee07f"
     }
   ],
   "set": "Default",
