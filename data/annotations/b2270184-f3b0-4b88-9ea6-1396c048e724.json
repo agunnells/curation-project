@@ -565,6 +565,27 @@
         }
       ],
       "uuid": "0f676d10-4afb-4431-aed7-b76b37c811ab"
+    },
+    {
+      "start_time": 481,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Old man asks what time it is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "25155409-8381-4dc1-bae4-b4154b5d2a66"
     }
   ],
   "set": "Default",
