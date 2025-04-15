@@ -2,13 +2,20 @@
   "annotations": [
     {
       "start_time": 30,
-      "end_time": 30,
+      "end_time": 37,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Transition music to indicate move from Welles' introduction to the play"
+              "text": "Transition music to indicate move from Welles' introduction to "
+            },
+            {
+              "text": "Dracula",
+              "italic": true
+            },
+            {
+              "text": "; music is slightly ominous in tone to set the production's mood"
             }
           ]
         }
