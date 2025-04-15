@@ -1240,6 +1240,27 @@
         }
       ],
       "uuid": "09879f19-6207-44c7-bb6c-04aab9558fc2"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another set of footsteps is audible"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "5cb10a89-38f5-490c-a048-8ca23e557e0a"
     }
   ],
   "set": "Default",
