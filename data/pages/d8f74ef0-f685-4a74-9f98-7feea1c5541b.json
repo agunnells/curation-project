@@ -35,11 +35,11 @@
   "created_by": "agunnells",
   "title": "Lights Out, \"Murder Castle,\" Excerpt 1",
   "slug": "lights-out-murder-castle-excerpt-1",
-  "updated_at": "2025-04-15T00:30:22.991Z",
+  "updated_at": "2025-04-15T00:30:29.516Z",
   "updated_by": "agunnells",
   "parent": "04422d3c-d919-4732-b61a-eb8b1b178a06",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "1d636c0c-cbf3-49cd-add3-4e7a6292350a"
   }
