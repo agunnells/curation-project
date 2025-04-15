@@ -896,6 +896,27 @@
         }
       ],
       "uuid": "19657eba-ba91-404c-b1d0-5edf1fc045a6"
+    },
+    {
+      "start_time": 867,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soft child-like voices continue talking about murderer walks through various rooms in the house"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "daa85c09-4a2c-48b8-978e-00e00e6e71e7"
     }
   ],
   "set": "Default",
