@@ -1328,6 +1328,31 @@
         }
       ],
       "uuid": "37d0453a-7f2a-49c1-a40a-52786b2e749b"
+    },
+    {
+      "start_time": 1465,
+      "end_time": 1465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murderer's voice growing more frantic as he is unable to ignore the sound of his victim's beating heart"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "0a0f7eaa-54ae-48c8-9926-ecf09be77c0e"
     }
   ],
   "set": "Default",
