@@ -343,6 +343,27 @@
         }
       ],
       "uuid": "2170749a-8c07-4184-a032-75222a69b6ad"
+    },
+    {
+      "start_time": 269,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another (fainter) booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "60ad4fc4-1e74-4b47-ad56-53eb0df383da"
     }
   ],
   "set": "Default",
