@@ -213,6 +213,27 @@
         }
       ],
       "uuid": "0642f938-6f2f-43e1-b4a8-3b8663b2550a"
+    },
+    {
+      "start_time": 47,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The doctor and Wilson - who is perhaps a nurse or orderly - have a conversation about a patient"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "f2a828fa-1481-43fb-b1cc-5c41cd4ecf51"
     }
   ],
   "set": "Default",
