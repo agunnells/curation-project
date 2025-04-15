@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "e4a3e0aa-a42d-4048-a7be-80486a30420f"
+    },
+    {
+      "start_time": 102,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High-pitched groan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "7c6765e0-8792-4b4a-90a3-9436c420acc3"
     }
   ],
   "set": "Default",
