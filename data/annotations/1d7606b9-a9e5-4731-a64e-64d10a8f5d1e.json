@@ -97,7 +97,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
       "uuid": "098ed603-c828-4e71-b5ec-eba22c4fae7e"
     }
   ],
