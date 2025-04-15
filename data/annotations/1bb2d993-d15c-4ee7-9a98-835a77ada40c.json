@@ -65,13 +65,13 @@
     },
     {
       "start_time": 51,
-      "end_time": 51,
+      "end_time": 52,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Door opening"
+              "text": "Creaking door opening"
             }
           ]
         }
