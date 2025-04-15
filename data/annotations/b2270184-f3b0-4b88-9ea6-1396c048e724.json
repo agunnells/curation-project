@@ -494,6 +494,27 @@
         }
       ],
       "uuid": "36d136e4-82d5-46e7-91e9-b1137b69c897"
+    },
+    {
+      "start_time": 400,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous music begins to build in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "3f2b65d5-3771-4215-b95c-c0ae2754660f"
     }
   ],
   "set": "Default",
