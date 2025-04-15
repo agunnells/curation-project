@@ -515,6 +515,35 @@
         }
       ],
       "uuid": "3f2b65d5-3771-4215-b95c-c0ae2754660f"
+    },
+    {
+      "start_time": 411,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murderer's voice begins again, with whistling wind, the ticking sound, and ominous musical tones playing beneath it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        },
+        {
+          "category": "Music",
+          "tag": "music"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "1a9054d5-3577-420e-a86d-bd604a3f95cb"
     }
   ],
   "set": "Default",
