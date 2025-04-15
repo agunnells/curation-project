@@ -87,6 +87,27 @@
         }
       ],
       "uuid": "ff73aa61-0e5f-491d-9fd8-6de7fac4f77f"
+    },
+    {
+      "start_time": 33,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "9ef48728-1f82-4996-b073-712b9192f7ac"
     }
   ],
   "set": "Default",
