@@ -692,6 +692,27 @@
         }
       ],
       "uuid": "68faf732-9424-4e1b-ac23-2fd22afd0250"
+    },
+    {
+      "start_time": 315,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unnamed player"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "6ac11e6c-131f-4843-9a71-7ee3a612c3c2"
     }
   ],
   "set": "Default",
