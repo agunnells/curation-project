@@ -83,6 +83,27 @@
         }
       ],
       "uuid": "e885e135-2a5b-45d8-96d6-b9c397b01e3f"
+    },
+    {
+      "start_time": 67,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking sound of feet walking across the floor; footsteps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "638d77f0-892f-4cbd-86ae-364ed389d4e0"
     }
   ],
   "set": "Default",
