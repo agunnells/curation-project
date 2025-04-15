@@ -1135,6 +1135,27 @@
         }
       ],
       "uuid": "bff9a238-92b1-4c5d-af41-78fa0c43ff37"
+    },
+    {
+      "start_time": 1147,
+      "end_time": 1187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Various sounds of feet walking across the floor, scuffing, shuffling, and creaking "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "13814138-ab87-4d0c-99c3-092f695c74fc"
     }
   ],
   "set": "Default",
