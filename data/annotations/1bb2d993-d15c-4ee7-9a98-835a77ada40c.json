@@ -104,6 +104,27 @@
         }
       ],
       "uuid": "638d77f0-892f-4cbd-86ae-364ed389d4e0"
+    },
+    {
+      "start_time": 76,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of footsteps walking across floor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "9b4bfafd-854a-4491-866d-203f1f06243e"
     }
   ],
   "set": "Default",
