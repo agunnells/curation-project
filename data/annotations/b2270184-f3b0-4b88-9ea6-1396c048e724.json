@@ -544,6 +544,27 @@
         }
       ],
       "uuid": "1a9054d5-3577-420e-a86d-bd604a3f95cb"
+    },
+    {
+      "start_time": 461,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Old man wakes up and begins to moan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "0f676d10-4afb-4431-aed7-b76b37c811ab"
     }
   ],
   "set": "Default",
