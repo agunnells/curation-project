@@ -787,6 +787,27 @@
         }
       ],
       "uuid": "fe0d65dd-d88e-4886-b31a-62b076c763ab"
+    },
+    {
+      "start_time": 804,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creaking door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "97ec3029-b3ae-4e34-98ee-f5678e2186b2"
     }
   ],
   "set": "Default",
