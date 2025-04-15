@@ -1261,6 +1261,27 @@
         }
       ],
       "uuid": "5cb10a89-38f5-490c-a048-8ca23e557e0a"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More wine being poured"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "d109cce9-3327-4a15-a47e-22e6798625ea"
     }
   ],
   "set": "Default",
