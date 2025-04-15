@@ -938,6 +938,27 @@
         }
       ],
       "uuid": "1303d912-594b-429e-b718-1adb79794b9d"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud ominous music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "9ba6efd6-8f26-45f5-9cf9-043827508193"
     }
   ],
   "set": "Default",
