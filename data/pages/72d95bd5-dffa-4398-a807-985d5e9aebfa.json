@@ -55,21 +55,6 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "2c8107c5-26de-46d9-8ed0-e39fe4a8c68c",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -87,6 +72,6 @@
   "slug": "noise",
   "created_at": "2025-03-23T23:47:34.703Z",
   "created_by": "agunnells",
-  "updated_at": "2025-04-15T00:55:01.701Z",
+  "updated_at": "2025-04-15T00:56:03.725Z",
   "updated_by": "agunnells"
 }
