@@ -1374,6 +1374,27 @@
         }
       ],
       "uuid": "7691b79a-9d86-431c-bf4c-ec46dcd7b0d7"
+    },
+    {
+      "start_time": 1630,
+      "end_time": 1630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The murderer frantically confesses to his crime"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "7ae1cc68-b8b3-4e88-90eb-742b6db045ca"
     }
   ],
   "set": "Default",
