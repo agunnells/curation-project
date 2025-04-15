@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"2e027b12-daaf-44e4-9265-58d461ae83a5","source_id":"a82169ba-a32d-4229-b4dc-c6749be75bf7"}
+{
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "a1c6d0b7-5536-4f3f-9157-b7b19aa8ad93"
+    }
+  ],
+  "set": "Default",
+  "event_id": "2e027b12-daaf-44e4-9265-58d461ae83a5",
+  "source_id": "a82169ba-a32d-4229-b4dc-c6749be75bf7"
+}
