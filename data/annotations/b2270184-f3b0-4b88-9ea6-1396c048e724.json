@@ -875,6 +875,27 @@
         }
       ],
       "uuid": "fb4fc48c-42fb-4856-b6a9-704801e6eb55"
+    },
+    {
+      "start_time": 950,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another creaking sound, likely another door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "19657eba-ba91-404c-b1d0-5edf1fc045a6"
     }
   ],
   "set": "Default",
