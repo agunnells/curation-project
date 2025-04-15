@@ -125,6 +125,27 @@
         }
       ],
       "uuid": "9b4bfafd-854a-4491-866d-203f1f06243e"
+    },
+    {
+      "start_time": 79,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "2a03f883-7a57-4636-8d56-1b8d1f31884c"
     }
   ],
   "set": "Default",
