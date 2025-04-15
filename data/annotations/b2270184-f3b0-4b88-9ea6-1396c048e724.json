@@ -724,6 +724,27 @@
         }
       ],
       "uuid": "87cbb791-8d87-40c8-b908-e0c1a8824445"
+    },
+    {
+      "start_time": 772,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ominous music returns, this time quite loud"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "228a04e1-071e-4848-91e8-5b580225c518"
     }
   ],
   "set": "Default",
