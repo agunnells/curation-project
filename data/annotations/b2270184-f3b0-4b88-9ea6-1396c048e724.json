@@ -364,6 +364,27 @@
         }
       ],
       "uuid": "60ad4fc4-1e74-4b47-ad56-53eb0df383da"
+    },
+    {
+      "start_time": 272,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music signals transition to a new scene"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "3f7b37c3-47da-4e73-9ef7-61082be9b003"
     }
   ],
   "set": "Default",
