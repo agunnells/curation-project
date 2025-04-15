@@ -1282,6 +1282,31 @@
         }
       ],
       "uuid": "d109cce9-3327-4a15-a47e-22e6798625ea"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conversation between murderer and police officers; the entire time, the ticking sound and beating heart are audible"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        },
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "4e2d389c-b165-41a8-bc44-663054cd587b"
     }
   ],
   "set": "Default",
