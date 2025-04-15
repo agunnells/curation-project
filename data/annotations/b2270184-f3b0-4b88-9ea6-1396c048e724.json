@@ -1437,6 +1437,31 @@
         }
       ],
       "uuid": "46c6df8a-8821-4c8f-b772-e3b18a54cb3c"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scene transitions to conversation between doctor and Wilson; the wind can once again be heard whistling in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        },
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "504f9662-bd2b-4df2-80a1-dd5961b394c0"
     }
   ],
   "set": "Default",
