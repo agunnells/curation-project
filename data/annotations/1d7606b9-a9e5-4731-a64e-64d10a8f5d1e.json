@@ -503,6 +503,27 @@
         }
       ],
       "uuid": "4dfbd695-77cb-4d98-89e9-6d7f3f158a35"
+    },
+    {
+      "start_time": 265,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Player King"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "86fde423-d7fb-465e-956d-ce09b8ea0ed5"
     }
   ],
   "set": "Default",
