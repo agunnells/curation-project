@@ -83,6 +83,22 @@
         }
       ],
       "uuid": "44d08eca-5c2f-41b4-adb9-90021b34d798"
+    },
+    {
+      "start_time": 137,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Horatio"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "098ed603-c828-4e71-b5ec-eba22c4fae7e"
     }
   ],
   "set": "Default",
