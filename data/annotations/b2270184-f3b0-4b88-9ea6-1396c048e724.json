@@ -917,6 +917,27 @@
         }
       ],
       "uuid": "daa85c09-4a2c-48b8-978e-00e00e6e71e7"
+    },
+    {
+      "start_time": 998,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man screaming"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "1303d912-594b-429e-b718-1adb79794b9d"
     }
   ],
   "set": "Default",
