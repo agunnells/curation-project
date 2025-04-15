@@ -188,6 +188,27 @@
         }
       ],
       "uuid": "f26cfd62-2cad-4911-bf6a-ce3f79d3a3dc"
+    },
+    {
+      "start_time": 130,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rustling of paper as letter is handed over"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "41dd5ebd-3f14-42b2-a579-f69da30af0c9"
     }
   ],
   "set": "Default",
