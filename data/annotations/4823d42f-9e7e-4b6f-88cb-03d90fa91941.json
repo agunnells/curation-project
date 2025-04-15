@@ -83,6 +83,27 @@
         }
       ],
       "uuid": "fae8a148-565e-4e1e-93b3-89df60a73613"
+    },
+    {
+      "start_time": 125,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of bubbling, indicating the body sinking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "5b27e46f-ee9b-4c77-a98d-d05a715d216a"
     }
   ],
   "set": "Default",
