@@ -632,6 +632,27 @@
         }
       ],
       "uuid": "2fc4e902-62a7-4769-8eed-8f85d33d59d1"
+    },
+    {
+      "start_time": 690,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Large booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "66290e1e-802c-468b-a8c2-69f06d429c07"
     }
   ],
   "set": "Default",
