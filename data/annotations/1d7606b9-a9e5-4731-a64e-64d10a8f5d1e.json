@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"3a505c8b-6737-4f66-9bdf-4ebbddd0e047","source_id":"ec7aa5cf-a406-4cde-a001-2caf3d7eb17f"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Narrator introducing the play that Hamlet puts on to expose his uncle"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "6f995bea-5d61-4298-9e69-bd7bf83facf4"
+    }
+  ],
+  "set": "Default",
+  "event_id": "3a505c8b-6737-4f66-9bdf-4ebbddd0e047",
+  "source_id": "ec7aa5cf-a406-4cde-a001-2caf3d7eb17f"
+}
