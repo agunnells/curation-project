@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "7c6765e0-8792-4b4a-90a3-9436c420acc3"
+    },
+    {
+      "start_time": 111,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man grunting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "de15fd2b-aed3-4832-ae5d-90e3e95093ab"
     }
   ],
   "set": "Default",
