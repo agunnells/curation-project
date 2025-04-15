@@ -524,6 +524,27 @@
         }
       ],
       "uuid": "86fde423-d7fb-465e-956d-ce09b8ea0ed5"
+    },
+    {
+      "start_time": 272,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Player Queen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "24d4afbc-43b7-4e89-86ff-ccdbeb20418a"
     }
   ],
   "set": "Default",
