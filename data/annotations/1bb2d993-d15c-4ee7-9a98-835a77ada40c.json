@@ -167,6 +167,27 @@
         }
       ],
       "uuid": "3e06e867-df32-45d7-99b9-24e1f21f3666"
+    },
+    {
+      "start_time": 87,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Door closing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "f26cfd62-2cad-4911-bf6a-ce3f79d3a3dc"
     }
   ],
   "set": "Default",
