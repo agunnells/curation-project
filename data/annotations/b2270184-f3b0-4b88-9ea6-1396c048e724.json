@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "a1c6d0b7-5536-4f3f-9157-b7b19aa8ad93"
+    },
+    {
+      "start_time": 25,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of whistling wind"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "31a5f159-b38e-4c5d-b04e-30de7fdd4d23"
     }
   ],
   "set": "Default",
