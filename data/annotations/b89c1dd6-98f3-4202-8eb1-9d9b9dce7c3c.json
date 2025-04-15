@@ -27,6 +27,31 @@
         }
       ],
       "uuid": "8a6e0baf-fe4d-4e66-8dc9-6740073c64d8"
+    },
+    {
+      "start_time": 48,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Music to indicate transition from radio announcement to "
+            },
+            {
+              "text": "Dracula",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "1333c05c-e08b-47a1-8c0c-3435079c7e0b"
     }
   ],
   "set": "Default",
