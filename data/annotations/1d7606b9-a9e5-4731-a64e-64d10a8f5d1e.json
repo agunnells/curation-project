@@ -650,6 +650,27 @@
         }
       ],
       "uuid": "4c1b5bb2-1cb5-4505-836b-270c6a4e2e74"
+    },
+    {
+      "start_time": 305,
+      "end_time": 305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "King"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "9ddd3f05-78e4-4ca0-9023-fcfae0e46202"
     }
   ],
   "set": "Default",
