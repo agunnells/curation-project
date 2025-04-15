@@ -1026,6 +1026,27 @@
         }
       ],
       "uuid": "795be9ba-90df-4d19-8aa5-262668278d93"
+    },
+    {
+      "start_time": 1049,
+      "end_time": 1049,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ticking sound returns"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "700529d0-9705-405b-b0db-70186e8a3c75"
     }
   ],
   "set": "Default",
