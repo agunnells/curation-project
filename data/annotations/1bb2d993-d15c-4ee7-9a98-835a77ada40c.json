@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "585fd945-a535-4909-8e4e-99ea1331f399"
+    },
+    {
+      "start_time": 47,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Louder knocking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "1e3786ea-d9c7-499f-a377-d00036b9b360"
     }
   ],
   "set": "Default",
