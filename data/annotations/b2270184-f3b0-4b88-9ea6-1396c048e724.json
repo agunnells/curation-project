@@ -984,6 +984,27 @@
         }
       ],
       "uuid": "06950d81-bfdb-424f-98f3-c7a6a5b2b48b"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud boom"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "2dc5caba-0b67-4d56-8347-f1824fab630c"
     }
   ],
   "set": "Default",
