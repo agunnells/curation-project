@@ -108,6 +108,27 @@
         }
       ],
       "uuid": "9ef48728-1f82-4996-b073-712b9192f7ac"
+    },
+    {
+      "start_time": 35,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of whistling wind returns"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "654e53ce-6045-4931-ae9b-a509c2dcfee7"
     }
   ],
   "set": "Default",
