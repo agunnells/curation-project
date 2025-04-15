@@ -14,7 +14,7 @@
   "project": {
     "github_org": "agunnells",
     "is_private": false,
-    "title": "The Sound(s) of History",
+    "title": "(Old) The Sound(s) of History",
     "description": "Ali Gunnells' curation project for RHE 391: Rhetoric & Aesthetics. ",
     "language": "en",
     "slug": "curation-project",
@@ -54,7 +54,7 @@
       ]
     },
     "created_at": "2025-03-23T23:12:25.914Z",
-    "updated_at": "2025-04-15T02:22:07.363Z",
+    "updated_at": "2025-04-15T02:49:52.269Z",
     "generate_pages_site": true
   }
 }
