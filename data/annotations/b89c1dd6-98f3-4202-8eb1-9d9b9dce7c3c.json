@@ -87,7 +87,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
       "uuid": "84bfa65a-1ebb-4ab8-95a4-45837153d01f"
     }
   ],
