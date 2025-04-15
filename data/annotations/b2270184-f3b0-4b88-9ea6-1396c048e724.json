@@ -129,6 +129,27 @@
         }
       ],
       "uuid": "654e53ce-6045-4931-ae9b-a509c2dcfee7"
+    },
+    {
+      "start_time": 38,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knocking on door"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "c5cd9348-1788-442e-a840-cf54fe9664fe"
     }
   ],
   "set": "Default",
