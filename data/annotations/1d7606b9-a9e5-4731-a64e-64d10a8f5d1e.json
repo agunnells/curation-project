@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "0f48e441-fcdc-48a2-9cea-a2c434782dc3"
+    },
+    {
+      "start_time": 126,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unnamed actor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "931dbe49-c0bf-493f-b29e-d084b846db82"
     }
   ],
   "set": "Default",
