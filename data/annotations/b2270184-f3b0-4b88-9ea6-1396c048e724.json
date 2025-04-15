@@ -1219,6 +1219,27 @@
         }
       ],
       "uuid": "3894d6c9-f581-4238-bc73-741bbcbef0fc"
+    },
+    {
+      "start_time": 1323,
+      "end_time": 1323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sounds of footsteps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "09879f19-6207-44c7-bb6c-04aab9558fc2"
     }
   ],
   "set": "Default",
