@@ -968,7 +968,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Soft voices return"
+              "text": "Soft voices return with wind whistling in the background"
             }
           ]
         }
@@ -977,6 +977,10 @@
         {
           "category": "Voice",
           "tag": "voice"
+        },
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
         }
       ],
       "uuid": "06950d81-bfdb-424f-98f3-c7a6a5b2b48b"
