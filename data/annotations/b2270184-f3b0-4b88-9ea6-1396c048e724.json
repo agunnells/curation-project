@@ -1353,6 +1353,27 @@
         }
       ],
       "uuid": "0a0f7eaa-54ae-48c8-9926-ecf09be77c0e"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Murderer's voice has grown increasingly frenzied as he yells at the policemen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "7691b79a-9d86-431c-bf4c-ec46dcd7b0d7"
     }
   ],
   "set": "Default",
