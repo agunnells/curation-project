@@ -52,6 +52,27 @@
         }
       ],
       "uuid": "1333c05c-e08b-47a1-8c0c-3435079c7e0b"
+    },
+    {
+      "start_time": 127,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background music - the short, plucking notes set an inquisitive, almost playful tone at first"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "02ba7686-1b42-4578-bcdd-89f9b6e63e97"
     }
   ],
   "set": "Default",
