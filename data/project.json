@@ -1,1 +1,48 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"agunnells","avatar_url":"https://avatars.githubusercontent.com/u/92882334?v=4","admin":true}],"project":{"github_org":"agunnells","is_private":false,"title":"The Sound(s) of History","description":"Ali Gunnells' curation project for RHE 391: Rhetoric & Aesthetics. ","language":"en","slug":"curation-project","creator":"agunnells","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#DA9ECF","category":"Sound Effects"},{"color":"#A3A3A3","category":"_uncategorized_"}],"tags":[{"category":"Sound Effects","tag":"sound effects"},{"category":"_uncategorized_","tag":"reenactment"}]},"created_at":"2025-03-23T23:12:25.914Z","updated_at":"2025-04-15T00:37:56.377Z","generate_pages_site":true}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "agunnells",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92882334?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "agunnells",
+    "is_private": false,
+    "title": "The Sound(s) of History",
+    "description": "Ali Gunnells' curation project for RHE 391: Rhetoric & Aesthetics. ",
+    "language": "en",
+    "slug": "curation-project",
+    "creator": "agunnells",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#DA9ECF",
+          "category": "Sound Effects"
+        },
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ]
+    },
+    "created_at": "2025-03-23T23:12:25.914Z",
+    "updated_at": "2025-04-15T00:38:00.962Z",
+    "generate_pages_site": true
+  }
+}
