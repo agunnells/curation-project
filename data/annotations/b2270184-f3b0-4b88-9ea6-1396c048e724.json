@@ -171,6 +171,27 @@
         }
       ],
       "uuid": "5d0112b7-e118-4880-b385-dcb64852b3d5"
+    },
+    {
+      "start_time": 41,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Door opening"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "f7e34b00-f880-4678-9d13-1b6762b85766"
     }
   ],
   "set": "Default",
