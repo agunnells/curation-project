@@ -452,6 +452,27 @@
         }
       ],
       "uuid": "9d12d0b1-484c-464d-87ce-0839bd7df4d5"
+    },
+    {
+      "start_time": 380,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Booming sound"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "717e8316-7ca2-4eef-a231-a92529c5fad2"
     }
   ],
   "set": "Default",
