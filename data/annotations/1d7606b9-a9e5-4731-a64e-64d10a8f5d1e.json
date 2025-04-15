@@ -671,6 +671,27 @@
         }
       ],
       "uuid": "9ddd3f05-78e4-4ca0-9023-fcfae0e46202"
+    },
+    {
+      "start_time": 307,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hamlet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Voice",
+          "tag": "voice"
+        }
+      ],
+      "uuid": "68faf732-9424-4e1b-ac23-2fd22afd0250"
     }
   ],
   "set": "Default",
