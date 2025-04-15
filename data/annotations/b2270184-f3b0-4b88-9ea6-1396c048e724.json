@@ -1114,6 +1114,27 @@
         }
       ],
       "uuid": "b3e92c31-0981-4702-b2a5-5e8d13c39b63"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 1146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of feet walking across the floor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "bff9a238-92b1-4c5d-af41-78fa0c43ff37"
     }
   ],
   "set": "Default",
