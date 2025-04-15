@@ -1307,6 +1307,27 @@
         }
       ],
       "uuid": "4e2d389c-b165-41a8-bc44-663054cd587b"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soft ominous music barely audible in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "37d0453a-7f2a-49c1-a40a-52786b2e749b"
     }
   ],
   "set": "Default",
