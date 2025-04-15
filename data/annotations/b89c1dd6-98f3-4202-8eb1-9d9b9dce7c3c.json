@@ -94,6 +94,27 @@
         }
       ],
       "uuid": "84bfa65a-1ebb-4ab8-95a4-45837153d01f"
+    },
+    {
+      "start_time": 139,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Background music repeats, this time fainter and slightly masked under other sound effects and voices"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "dbe7bcd2-6c06-4571-8a7f-6aaff085e773"
     }
   ],
   "set": "Default",
