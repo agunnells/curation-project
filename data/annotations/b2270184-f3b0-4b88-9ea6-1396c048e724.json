@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "31a5f159-b38e-4c5d-b04e-30de7fdd4d23"
+    },
+    {
+      "start_time": 26,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another booming sound, perhaps suggesting thunder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "c02682e8-7899-4d74-b67d-f29fb6e56d9f"
     }
   ],
   "set": "Default",
