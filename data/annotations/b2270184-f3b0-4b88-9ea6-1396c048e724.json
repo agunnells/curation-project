@@ -1198,6 +1198,27 @@
         }
       ],
       "uuid": "c34672b9-6a72-4b86-90ba-9d2f86628282"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sound of more wine pouring into glass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Sound Effects",
+          "tag": "sound effects"
+        }
+      ],
+      "uuid": "3894d6c9-f581-4238-bc73-741bbcbef0fc"
     }
   ],
   "set": "Default",
