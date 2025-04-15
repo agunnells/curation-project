@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"773ca1bc-f1c1-4dd4-99e1-bd1cbe08f095","source_id":"8e030ce8-3c8f-49a3-b2e9-fba9cc8c2a30"}
+{
+  "annotations": [
+    {
+      "start_time": 30,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition music to indicate move from Welles' introduction to the play"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Music",
+          "tag": "music"
+        }
+      ],
+      "uuid": "8a6e0baf-fe4d-4e66-8dc9-6740073c64d8"
+    }
+  ],
+  "set": "Default",
+  "event_id": "773ca1bc-f1c1-4dd4-99e1-bd1cbe08f095",
+  "source_id": "8e030ce8-3c8f-49a3-b2e9-fba9cc8c2a30"
+}
